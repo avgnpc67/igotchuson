@@ -21,7 +21,7 @@ Welcome to **igotuson**—a simple, community-focused directory built for educat
 ***
 
 ## Special
-- [FMHY Video Wiki](https://fmhy.net)⭐ -  A collection of media piracy sites, tools, and guides, with wikis for movies, TV, anime, and sports. Ideal for broad video resources.
+- [FMHY](https://fmhy.net)⭐ -  A collection of media piracy sites, tools, and guides, with wikis for movies, TV, anime, and sports. Ideal for broad video resources.
 - [ALL IN ONE ADULT SITES](https://theporndude.com/)⭐ - 1000+ sites
 - [OXAAM](https://www.oxaam.com/index.php)⭐ - free/cheapest subscription (no scam or illegal)
 - [World Monitor](https://www.worldmonitor.app/) - Real-time geopolitical intelligence dashboard

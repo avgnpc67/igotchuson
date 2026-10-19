@@ -10,24 +10,22 @@ Welcome to **igotuson**—a simple, community-focused directory built for educat
 ⭐- recommended/best  
 
 ## Table of contents
-- [Webseries Anime Movies](#webseries-anime-movies)
-* 🌸 [Anime & Manga](#anime--manga)
+- [General](#general)
+-  [Webseries Anime Movies](#webseries-anime-movies)
 * 📚 [Books & Comic Books](#books--comic-books)
 - [Games Software](#games-software)
 
 ***
+## General
+- [FMHY Video Wiki](https://fmhy.net) -  A collection of media piracy sites, tools, and guides, with wikis for movies, TV, anime, and sports. Ideal for broad video resources.
+- [ALL IN ONE ADULT SITES](https://theporndude.com/top-porn-tube-sites) - FRR
+- [OXAAM](https://www.oxaam.com/index.php) - free/cheapest subscription (no scam or illegal)
 
+  
 ## Webseries Anime Movies
-* [FMHY Video Wiki](https://fmhy.net) - A massive collection of streaming and tracking resources.
-* [WatchFreeMovies](https://watchfreemovies.ch) - An updated streaming directory for popular shows.
-* [VidPop List](https://vidpop.net) - Curated directory of free external streaming options.
+- [EverythingMoe](https://everythingmoe.com) -  Otaku-focused curator with reviews and lists for anime streaming (77 sites), donghua (21 sites), manga (80 sites), manhwa (48 sites), games (37 sites), apps (70 sites), downloads (44 sites), music (30 sites), and western streaming (9 sites). Includes MULT, DDL, torrent, and NSFW indicators.
 
-***
 
-## 🌸 Anime & Manga
-* [EverythingMoe](https://everythingmoe.com) - Otaku-focused curator listing dozens of streaming options.
-* [TheWikiMoe](https://thewiki.moe) - Wiki-style resource for Japanese media guides.
-* [Wotaku Wiki](https://wotaku.wiki) - Comprehensive index for anime and manga trackers.
 
 ***
 
@@ -39,9 +37,7 @@ Welcome to **igotuson**—a simple, community-focused directory built for educat
 ***
 
 ## Games Software
-* [r/PiratedGames Megathread](https://rentry.co) - Dedicated gaming guide and community index.
-* [PrivateersClub Wiki](https://pages.dev) - Extended database covering software and emulators.
-* [Awesome Piracy Tools](https://awesome-piracy.com) - Script directories and general digital utility tools.
+
 
 ***
 

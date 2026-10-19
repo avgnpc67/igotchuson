@@ -89,7 +89,7 @@ Welcome to **igotuson**—a simple, community-focused directory built for educat
 - [Hdqwalls](https://hdqwalls.com/popular-wallpapers)
 - [Phone wallpapers](https://www.reddit.com/r/phonewallpapers/)
 - [Mobile wallpapers](https://www.reddit.com/r/MobileWallpaper/)
-- [Pinterest](https://in.pinterest.com/)⭐ *(use AI enhancer)*
+- [Pinterest](https://in.pinterest.com/)⭐ *(use AI enhancer with ts)*
 
 ***
 

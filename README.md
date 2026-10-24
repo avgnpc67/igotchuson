@@ -70,7 +70,7 @@ Welcome to **igotuson**—a simple, community-focused directory built for educat
 - [IDM](https://www.internetdownloadmanager.com/)⭐ - download accelerator to increase download speeds by up to 8 times, resume, organize and schedule downloads
 - [WinRAR](https://www.win-rar.com/start.html?&L=0) - Compress, Encrypt, Package and Backup with only one utility
 - [f.lux](https://justgetflux.com/) - color of your computer's display adapt to the time of day, warm at night and like sunlight during the day
-
+- [idm free lifetime](https://github.com/aonexyz/IDM-LifeTime-Activation)
 ***
 
 

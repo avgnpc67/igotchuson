@@ -68,7 +68,7 @@ Welcome to **igotuson**—a simple, community-focused directory built for educat
 **for pc**
 - [Zen browser](https://zen-browser.app/)⭐ - beautifully designed, privacy-focused, and packed with features **top notch experience**
 - [Brave browser](https://brave.com/download/)⭐ - blocks ads and trackers that slow you down and invade your privacy
-- [IDM](https://www.internetdownloadmanager.com/)⭐ - download accelerator to increase download speeds by up to 8 times, resume, organize and schedule downloads
+- [ABDownload Manager](https://abdownloadmanager.com/)⭐ - download accelerator to increase download speeds by up to 8 times, resume, organize and schedule downloads
 - [WinRAR](https://www.win-rar.com/start.html?&L=0) - Compress, Encrypt, Package and Backup with only one utility
 - [f.lux](https://justgetflux.com/) - color of your computer's display adapt to the time of day, warm at night and like sunlight during the day
 - [idm free lifetime](https://github.com/aonexyz/IDM-LifeTime-Activation)

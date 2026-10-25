@@ -33,6 +33,7 @@ Welcome to **igotuson**—a simple, community-focused directory built for educat
 - [EverythingMoe](https://everythingmoe.com)⭐ -  Otaku-focused curator with reviews and lists for anime streaming (77 sites), donghua (21 sites), manga (80 sites), manhwa (48 sites), games (37 sites), apps (70 sites), downloads (44 sites), music (30 sites), and western streaming (9 sites). Includes MULT, DDL, torrent, and NSFW indicators.
 - [TBCPL](https://tbcpl.net/) - Curated streaming sites, instant fuzzy search, multi-region support — free, forever. *(use VPN)*
 - [Vegamovies](https://new1.vegamovies.lease/)⭐ - both sub/dub of movies, tv shows, movies & provide **BATCH ZIP DOWNLOAD**
+- [Anime kaizoku](https://animekaizoku.xyz/)⭐ - both sub/dub of **anime only BATCH ZIP DOWNLOAD**
 - [PrimeWire Nexus](https://primewire.nexus/) - hub for the popular free movie and TV show streaming site *(if u cant find smth on vegamovies)*
 - [Series Graph](https://seriesgraph.com/) - ratings into visual, episode-by-episode heatmaps and charts
 - [Subsource](https://subsource.net/) - free subtitle download platform for movies, TV series, and anime, multilingual options

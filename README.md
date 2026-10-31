@@ -45,7 +45,8 @@ Welcome to **igotuson**—a simple, community-focused directory built for educat
 - [AI tools for experienced](https://www.aixploria.com/en/free-ai/) - 6,139+ AI tools analyzed and listed
 - [AI Fiesta](https://aifiesta.ai/) - World's Best AI Models & Tools. One Subscription.
 - [AI Arena](https://arena.ai/) - web-based platform used to test, compare, and rank artificial intelligence models *free*
-  
+- [AI Image upscale 1](https://imgupscaler.ai/)
+- [AI Image upscale 2](https://imgupscaler.com/) 
 ***
 
 ## General

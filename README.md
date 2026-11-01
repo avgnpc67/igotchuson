@@ -1,6 +1,6 @@
 # igotuson
 
-Welcome to **igotuson**—a simple, community-focused directory built for educational and media management research. This layout serves as a single dashboard to track various online archives, reference wikis, and open-source tools. 
+Welcome to **igotuson** a simple, community-focused directory built for educational and media management research. This layout serves as a single dashboard to track various online archives, reference wikis, and open-source tools. 
 
 ### 🛡️ Safety First
 * Always use a reliable **VPN** and an active **Ad Blocker** (like uBlock Origin) or **Brave Browser** before browsing external links.
